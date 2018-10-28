@@ -1,4 +1,4 @@
-// Select color input
+// Select color input Hey!!
 // Select size input
 var h =1;
 var w =1;
